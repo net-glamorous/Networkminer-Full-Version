@@ -241,3 +241,6 @@ This repository serves as the official landing page for NetworkMiner. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of NetworkMiner today!**
+
+---
+**Last updated:** 2026-09-11 21:33:22 UTC
