@@ -243,4 +243,4 @@ This repository serves as the official landing page for NetworkMiner. The softwa
 **Get the most recent version of NetworkMiner today!**
 
 ---
-**Last updated:** 2026-09-18 09:25:16 UTC
+**Last updated:** 2026-09-18 14:09:07 UTC
